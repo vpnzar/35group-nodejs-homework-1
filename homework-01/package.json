@@ -1,7 +1,7 @@
 {
-  "name": "35group-nodejs-homework",
+  "name": "35group-nodejs-homework-1",
   "version": "1.0.0",
-  "description": "screenshots links:",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
